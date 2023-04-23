@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on  
-Vtuber translation project that automatically grabs the translation videos on Youtube to let users query their interested vtubers and translators
+<!-- - 🔭 I’m currently working on  
+Vtuber translation project that automatically grabs the translation videos on Youtube to let users query their interested vtubers and translators -->
 - 🌱 I’m currently learning 
 1. Cloud things: firebase, aws, netilify
 2. Java Spring ..
